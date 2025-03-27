@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme </h1>
 <h3 align="center">A little bit about me</h3>
-- 🌱 I’m currently learning **C @ 42Porto**
+- 🌱 I’m currently learning **C++ @ 42Porto**
 
 
 - Feel free to contact me on **https://www.linkedin.com/in/guilherme-felix-rocha/**
